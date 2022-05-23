@@ -1,0 +1,12 @@
+class Const(object):
+    StrOpen = "0"
+    StrSearch = "1"
+    StrGet = "2"
+    StrSave = "3"
+    StrTransfer = "4"
+    StrChangePWD = "5"
+    StrLock = "6"
+    StrUnlock = "7"
+    StrNew = "8"
+    StrDelete = "9"
+    StrQuit = "q"
